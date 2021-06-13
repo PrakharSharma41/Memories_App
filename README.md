@@ -5,5 +5,4 @@
 In this app user can post memory about anything along with its description.
 There is also functionality of login, adding images, liking a post , deleting a post, updating a post,
 searching a post based on tags and title and pagination is also used to improve efficiency.
-
 This app is built on nodejs, reactjs, mongodb for database etc.
