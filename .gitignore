@@ -1,0 +1,3 @@
+node_modules
+build
+.env // env contains connection url and secret
